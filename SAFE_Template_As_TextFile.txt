@@ -1,15 +1,14 @@
 THIS INSTRUMENT AND ANY SECURITIES ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), OR UNDER THE SECURITIES LAWS OF CERTAIN STATES.  THESE SECURITIES MAY NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED, PLEDGED OR HYPOTHECATED EXCEPT AS PERMITTED IN THIS SAFE AND UNDER THE ACT AND APPLICABLE STATE SECURITIES LAWS PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT OR AN EXEMPTION THEREFROM.  
 
-[COMPANY NAME]
+[AUTHILLO,INC.]
 
 SAFE 
  (Simple Agreement for Future Equity)
 
-THIS CERTIFIES THAT in exchange for the payment by [Investor Name] (the “Investor”) of $[_____________] (the “Purchase Amount”) on or about [Date of Safe], [Company Name], a [State of Incorporation] corporation (the “Company”), issues to the Investor the right to certain shares of the Company’s Capital Stock, subject to the terms described below. 
-This Safe is one of the forms available at http://ycombinator.com/documents and the Company and the Investor agree that neither one has modified the form, except to fill in blanks and bracketed terms. 
+THIS CERTIFIES THAT in exchange for the payment by [_____________] (the “Investor”) of $[_____________] (the “Purchase Amount”) on or about [___________], [AUTHILLO,INC.], a Delaware corporation (the “Company”), issues to the Investor the right to certain shares of the Company’s Capital Stock, subject to the terms described below. 
 
-The “Post-Money Valuation Cap” is $[___________].  
-The “Discount Rate” is [100 minus the discount]%.
+The “Post-Money Valuation Cap” is $5,000,000.  
+The “Discount Rate” is 80%.
 See Section 2 for certain additional defined terms.
 1.	Events
 
@@ -80,7 +79,7 @@ The Investor’s right to receive its Conversion Amount is (A) on par with payme
 
 	(e)	In the event any one or more of the provisions of this Safe is for any reason held to be invalid, illegal or unenforceable, in whole or in part or in any respect, or in the event that any one or more of the provisions of this Safe operate or would prospectively operate to invalidate this Safe, then and in any such event, such provision(s) only will be deemed null and void and will not affect any other provision of this Safe and the remaining provisions of this Safe will remain operative and in full force and effect and will not be affected, prejudiced, or disturbed thereby. 
 
-	(f)	All rights and obligations hereunder will be governed by the laws of the State of [Governing Law Jurisdiction], without regard to the conflicts of law provisions of such jurisdiction.
+	(f)	All rights and obligations hereunder will be governed by the laws of the State of Delaware, without regard to the conflicts of law provisions of such jurisdiction.
 
 	(g)	The parties acknowledge and agree that for United States federal and state income tax purposes this Safe is, and at all times has been, intended to be characterized as stock, and more particularly as common stock for purposes of Sections 304, 305, 306, 354, 368, 1036 and 1202 of the Internal Revenue Code of 1986, as amended.  Accordingly, the parties agree to treat this Safe consistent with the foregoing intent for all United States federal and state income tax purposes (including, without limitation, on their respective tax returns or other informational statements).
 
@@ -89,22 +88,20 @@ The Investor’s right to receive its Conversion Amount is (A) on par with payme
  
 IN WITNESS WHEREOF, the undersigned have caused this Safe to be duly executed and delivered.
 
-[COMPANY]
+AUTHILLO,INC.
 
-By:					
-	[name]
-[title]
-			Address: 	
-					
-			Email:	
-			INVESTOR:
-			By:		
-			Name:	
-			Title:	
+    By:		
+	[James Grom]
+    [CEO]
+    Address: 481, N. Santa Cruz #224, Los Gatos, CA, 95030
+    Email:	james@authillo.com
 
-			Address:	
-					
-						Email:						
+    INVESTOR:
+        By:		
+        Name:	
+        Title:	
+        Address:	
+        Email:						
 
 
 			
